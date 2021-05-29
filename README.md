@@ -1,2 +1,9 @@
-# online-parameter-estimation
-Modeling &amp; Simulation of Dynamic Systems - online parameter estimation in MATLAB
+# Modeling & Simulation of Dynamic Systems - Online Parameter Estimation
+
+## Run instructions
+
+Run the demo file:
+
+```bash
+src/demo.m
+```
